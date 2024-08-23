@@ -1,6 +1,6 @@
 # Unity3d Inventory Framework - Elastic Inventory
 
-An extendable Unity3D inventory library that leaves the implementation up to you. From simple inventory management to complex systems seen in Dark Souls, Diablo, Skyrim, ect. Stop rewriting your inventory and start building your game.
+An extendable Unity3D inventory library that leaves the implementation up to you. From simple inventory management to complex systems seen in Dark Souls, Diablo, Skyrim, ect. Stop rewriting your inventory and start building your game
 
 ![Unity3d Inventory](images/preview.png)
 
