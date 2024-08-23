@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Here are some general guidelines for your PR to minimize revision requests.
+Here are some general guidelines for your PR to minimize revision requests
 
 * Make sure your code is formatted similar to the rest of the project
 * New code must have test coverage. See any *Test.cs for an example
